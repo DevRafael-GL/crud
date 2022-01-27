@@ -1,0 +1,24 @@
+.headingContainer {
+  max-width: 500px;
+  background: #333;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 1.5rem;
+}
+
+.headingContainer h2 {
+  font-family: sans-serif;
+  color: #eee;
+}
+
+.headingContainer a {
+  color: #eee;
+  text-decoration: none;
+  font-size: 1rem;
+  font-weight: 600;
+  font-family: sans-serif;
+  padding: 0.5rem;
+  background: rgb(17, 128, 255);
+  border-radius: 4px;
+}
